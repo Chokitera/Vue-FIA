@@ -1,0 +1,37 @@
+{
+  "professores": [
+    {
+      "id": "1",
+      "nome": "Alan"
+    },
+    {
+      "id": "2",
+      "nome": "Laura"
+    },
+    {
+      "id": "3",
+      "nome": "Marcos"
+    }
+  ],
+  "alunos": [
+    {
+      "id": "02ee",
+      "nome": "alan",
+      "sobrenome": "jotape",
+      "dataNasc": "23/08/2022",
+      "professor": {
+        "id": "3",
+        "nome": "Marcos"
+      }
+    },
+    {
+      "id": "c12d",
+      "nome": "Isaack",
+      "sobrenome": "newton",
+      "professor": {
+        "id": "2",
+        "nome": "Laura"
+      }
+    }
+  ]
+}
